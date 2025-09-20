@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Fintech & Marketing Dashboard",
+  "description": "A responsive web application simulating a fintech and marketing dashboard, featuring marketing campaign analytics, subscription management, credit purchasing, and an AI-powered support chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
